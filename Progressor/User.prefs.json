@@ -1,0 +1,21 @@
+{
+    "Author" : "Cameron Pelkey",
+    "OutputMarkdown": "/Users/cameron/Projects/Bunne.github.io/_pages/progress.md",
+    "MarkdownHeader":
+    {
+        "permalink": "/progress/",
+        "type": "pages",
+        "title": "Progress",
+        "layout": "single",
+        "author_profile": "true"
+    },
+    "MarkdownTopText": "This page is automatically generated to show recent updates.",
+    "UpdateCount": 5,
+    "Repositories":
+    [
+        {
+            "Name" : "Github.io",
+            "Path" : "/Users/cameron/Projects/Bunne.github.io"
+        }
+    ]
+}
